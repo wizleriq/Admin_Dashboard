@@ -98,7 +98,7 @@ font-normal text-[13.37px] leading-[16.54px]  text-left text-[#525252]">
 
      <div className="lg:flex lg:w-[289.33px] lg:h-[24px] lg:gap-[0px] lg:justify-between flex w-[334px]
      h-[24px] gap-[0px] justify-between lg:bg-none lg:items-center items-center">
-     <h4 className="lg:w-[105px] lg:h-[17px] lg:gap-[0px] lg:font-medium lg:text-[14px] lg:leading-[16.94px] lg:text-left lg:text-[#0A0A0A] w-[105px] h-[20px] g-[0px] text-[14px] font-medium leading-[16.94px] text-left  lg:items-center items-center text-[#0A0A0A]">
+     <h4 className="lg:w-[115px] lg:h-[17px] lg:gap-[0px] lg:font-medium lg:text-[14px] lg:leading-[16.94px] lg:text-left lg:text-[#0A0A0A] w-[105px] h-[20px] g-[0px] text-[14px] font-medium leading-[16.94px] text-left  lg:items-center items-center text-[#0A0A0A]">
      Total Templates
      </h4>
      <p className="lg:w-[24px] lg:h-[24px] lg:gap-[0px]"><DollarSign className="lg:top-[5px] lg:left-[6px] lg:gap-[0px] lg:border-none w-[24px] h-[24px]" /></p>
